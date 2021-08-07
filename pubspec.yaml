@@ -26,8 +26,6 @@ dependencies:
   jitsi_meet: ^4.0.0
   google_fonts: ^2.1.0
   url_launcher: ^6.0.4
-  googleapis: ^4.0.0
-  shelf: ^1.2.0
 
 
   # The following adds the Cupertino Icons font to your application.
